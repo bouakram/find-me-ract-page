@@ -1,6 +1,10 @@
 .App{
     max-width: 900px;
+    height: 100vh;
     margin:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 a{
@@ -15,6 +19,7 @@ ul{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    margin: 1rem;
 }
 
 @media screen and (max-width: 450px){
@@ -73,4 +78,10 @@ ul{
 
 .Links ul li:hover a{
     color: white;
+}
+
+.Footer{
+    text-align: center;
+    margin: 1rem;
+    color: #001E6C;
 }
