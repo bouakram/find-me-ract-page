@@ -8,7 +8,7 @@ function About() {
 
         <h1>Boughazi Akram</h1>
 
-        <p>Computer Scienc (student) , self taught FrontEnd Developer (React Js 💕) , I live in Algeria 🇩🇿 </p>
+        <p>Computer Science (student) , self taught FrontEnd Developer (React Js 💕) , I live in Algeria 🇩🇿 </p>
     </div>
   )
 }
